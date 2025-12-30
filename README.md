@@ -1,19 +1,37 @@
-## startupcode / 스타트업코드
-안녕하세요! 🙋‍♂️ 개발자 입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.
-항상 이야기하는것을 좋아하고 비난이 아닌 비판은 언제든지 환영합니다. 🥰 모두 행복했으면 좋겠어요!
+##  About ME
+안녕하세요. 개발자 양준우입니다.
+저는 기술 그 자체보다, 기술을 통해 문제를 해결하는 과정에 더 큰 가치를 둡니다.
+코드는 혼자 작성할 수 있지만, 좋은 결과는 혼자 만들 수 없다고 생각합니다.
+그래서 항상 사람과 맥락을 먼저 이해하려고 노력합니다.
+
+새로운 것을 배우는 데에 거리낌이 없고,
+모르는 것은 솔직하게 인정하며 빠르게 흡수하는 편입니다.
+의견을 나누는 과정에서 더 나은 방향을 찾는 것을 좋아합니다
 <br />
 <br />
 <br />
 ## My values
-😎 모든것은 재미있어야 합니다<br />
-👌 안전성을 겸비한 속도를 지향 합니다<br />
-🦻 쉽게 말하고 어렵게 들으려고 노력합니다<br />
+애매한 상황보다는 명확한 기준과 방향을 선호합니다.<br />
+맡은 일에 끝까지 책임지는 것을 가장 중요하게 생각합니다.<br />
+빠른 해결보다, 오래 유지할 수 있는 선택을 지향합니다.<br />
 <br />
 <br />
 <br />
 ## How i work
-저는 항상 재미있게 살고 싶습니다. 사용자와 클라이언트를 동시에 만족 시키는 것 또한 재미있고, 새로운 기술을 배우는 것 또한 재미 있습니다. 어려운 프로덕트를 성공 시키는 경험또한 재미있고 기술을 쉽게 풀어내는 것 또한 재미있습니다 :) 그리고 무조건 약속한 시간을 지키기 위해 노력하며 단순히 약속한 시간을 지키는것이 아닌 최대한 완성도를 높이기 위해서 노력합니다!
-저는 장비에 관심이 많아서 모든 장비가 세팅되어 있는 환경을 좋아합니다 :) 그래서 자택하는걸 좋아하지만 가끔은 카페에서 일하는것도 좋습니다.
+저는 정리하면서 일하는 개발자입니다.
+작업을 시작하기 전에 왜 필요한지, 무엇을 해결해야 하는지부터 생각합니다.
+복잡한 문제를 작은 단위로 나누고,
+하나씩 해결해 나가는 과정에서 안정적인 결과를 만들어냅니다.
+
+기한을 지키는 것은 기본이라고 생각하며,
+가능한 범위 안에서 더 나은 완성도를 만들기 위해 고민합니다.
+또한 제 작업이 다른 사람에게 어떻게 보이고,
+어떻게 사용될지를 항상 함께 고려합니다.
+
+집중할 수 있는 환경을 중요하게 생각해
+작업 환경과 도구 세팅에도 신경을 씁니다.
+정돈된 공간에서 몰입하는 것을 좋아하며,
+필요할 때는 장소를 바꿔 리듬을 조절합니다.
 <br />
 <br />
 <br />
@@ -30,13 +48,6 @@
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
-  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">
-  <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 <br />
