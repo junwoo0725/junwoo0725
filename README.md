@@ -1,3 +1,21 @@
+## Skills
+#### I use it often.
+<div style="display:flex;gap:30px;flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+#### I've used it before.
+<div style="display:flex;gap:30px;flex-wrap:wrap;">
+   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</div>
+<br />
+<br />
+<br />
 ##  About ME
 안녕하세요. 개발자 양준우입니다.
 저는 기술 그 자체보다, 기술을 통해 문제를 해결하는 과정에 더 큰 가치를 둡니다.
@@ -32,24 +50,6 @@
 작업 환경과 도구 세팅에도 신경을 씁니다.
 정돈된 공간에서 몰입하는 것을 좋아하며,
 필요할 때는 장소를 바꿔 리듬을 조절합니다.
-<br />
-<br />
-<br />
-## Skills
-#### I use it often.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-#### I've used it before.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
-   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-</div>
 <br />
 <br />
 <br />
